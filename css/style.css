@@ -2091,7 +2091,7 @@ body {
         color: #000000;
         font-weight: bold;
         font-size: 5.5vw;
-        top: 55vh;
+        top: 50vh;
         z-index: 3;
     }
 
@@ -2155,7 +2155,7 @@ body {
         }
         
         .facial-sheet-img {
-            top: 35.5vh;
+            top: 31.5vh;
             left: 16vw;
             width: 67vw;
             height: 86vw;
