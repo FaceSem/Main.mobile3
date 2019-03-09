@@ -2155,7 +2155,7 @@ body {
         }
         
         .facial-sheet-img {
-            top: 34vh;
+            top: 37vh;
             left: 16vw;
             width: 67vw;
             height: 86vw;
@@ -4046,6 +4046,10 @@ body {
     and (-webkit-device-pixel-ratio : 2) { 
         .white-head {
             margin-top: -27vw!important;
+        }
+
+        .facial-sheet-img {
+            top: 39vh!important;
         }
     }
 
